@@ -3,6 +3,7 @@
 *.war
 *.ear
 
+*.test
 /cpw
 /ibxm
 /net
