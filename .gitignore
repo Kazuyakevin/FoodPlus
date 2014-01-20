@@ -4,6 +4,7 @@
 *.ear
 
 *.test
+*.testtest
 /cpw
 /ibxm
 /net
