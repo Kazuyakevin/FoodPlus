@@ -1,6 +1,18 @@
-*.class
-
 # Package Files #
 *.jar
 *.war
 *.ear
+
+/cpw
+/ibxm
+/net
+/paulscode
+*.cfg
+*.lzma
+*.properties
+*.png
+*.mcpmod
+Start.class
+*.cfg~
+/assets/forge
+mcpmod.info
