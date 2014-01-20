@@ -16,3 +16,8 @@ Start.class
 *.cfg~
 /assets/forge
 mcpmod.info
+*/.DS_Store
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
